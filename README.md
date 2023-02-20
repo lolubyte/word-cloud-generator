@@ -16,6 +16,8 @@ This project is a a sample app for a class on Continuous Delivery at LinkedIn Le
 ## Git
 We use git hooks to standardize development on the project. Please run `make git-hooks` to get started.
 
+#Added by Daniel Aboyewa
+The hook stuff is a new knowledge for me
 ## Using Make
 
 ### Building Artifacts
